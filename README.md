@@ -1,24 +1,48 @@
-# README
+# Accessing the Session
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is an application practice for sessions, where anyone can signup and create an account. The login information are saved in session hash.
 
-Things you may want to cover:
+## Build-With
 
-* Ruby version
+-Ruby
 
-* System dependencies
+-Rails
 
-* Configuration
+-SQLite3
 
-* Database creation
+-VScode
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+### Prerequisites
 
-* Services (job queues, cache servers, search engines, etc.)
+To get this project up and running locally, you must already have ruby and necessary gems installed on your computer
 
-* Deployment instructions
+**To get this project set up on your local machine, follow these simple steps:**
 
-* ...
+1. Open Terminal.
+2. Navigate to your desired location to download the contents of this repository.
+3. Copy and paste the following code into the Terminal: git clone https://github.com/LamiaSristy/sessions_Log_in
+4. Run ```cd sessions_Log_in```.
+5. Run ```bundle install``` to get the necesary gems.
+6. Run ```yarn``` .
+7. Run `rails db:migrate`.
+
+
+## Author Details::
+
+👤 **Lamia Sristy**
+
+- Github: [@LamiaSristy](https://github.com/LamiaSristy)
+- Linkedin: [@LamiaSristy](https://www.linkedin.com/in/lamia-hemayet-sristy/)
+- E-mail: <a href="mailto:lamiasristy@gmail.com?subject=Hello Lamia!">Email</a>  
+- Twitter: [@LamiaSristy](https://twitter.com/lsristy1)
+
+
+## Show your support
+
+Give ⭐ Star me on GitHub — it helps!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.   
