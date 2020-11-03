@@ -4,13 +4,10 @@ This project is an application practice for sessions, where anyone can signup an
 
 ## Build-With
 
--Ruby
-
--Rails
-
--SQLite3
-
--VScode
+- Ruby v- '2.7.1'
+- Rails v- '6.0.3.4'
+- SQLite3 v- '1.4'
+- VScode
 
 ## Getting Started
 
